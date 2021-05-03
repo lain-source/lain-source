@@ -9,12 +9,22 @@
 - 📫 How to reach me ...
 
 <Heading>
-
 Hey
 </Heading>
 
 
+<Heading colour=blue>
+Hey
+</Heading>
 
+
+<Heading>
+Hey
+</Heading>
+
+<Heading>
+Hey
+</Heading>
 
 
 
