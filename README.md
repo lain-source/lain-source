@@ -3,29 +3,10 @@
 
 
 
-- 👀 I’m interested in ...
+- 👀 _I’m interested in ..._
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on in 
 - 📫 How to reach me ...
-
-<Heading>
-Hey
-</Heading>
-
-
-<Heading colour=blue>
-Hey
-</Heading>
-
-
-<Heading>
-Hey
-</Heading>
-
-<Heading>
-Hey
-</Heading>
-
 
 
 <!---
