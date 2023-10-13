@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @lain-source
+# Welcome to my Public Github Account for collaborating (AJ Cooper)
+
+## Digital Agency - Software provided by Daylit Webhosting and Cloud Computing Business
+Professional Standard websites ,Digital Marketing , Business Consulting , Web hosting services 
+
+- 👀 Project consultations are done by appointments and Free estimates are given
+- (After Downpayments) Followed with Designs and prototypes in our planning stages in 3-5days.
+
+## Professional Board repairs and Data Recovery provided by Genius Crew
+Car Flashing , Crash Data resets , Mileage modifications and more ...
 
 
+## All business enquiries and urgent emails will be responded to within a day.
+- 📫  cooper.a.junior@gmail.com
 
-
-- 👀 _I’m interested in ..._
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on in 
-- 📫 How to reach me ...
-
-
-<!---
-lain-source/lain-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
